@@ -21,10 +21,10 @@ feature:
 
 *Signal Processing Laboratory, IIT Roorkee* \| December 2017 – May 2018<br>
 <i>Supervisor: Dr. Vinod Pankajakshan, Assistant Professor, IIT Roorkee</i><br>
-Trained existing SR networks with perceptual loss function to generate more realistic images.<br>
-Trained an image compression model that stores images in a low-dimensional representation and reconstructs
+* Trained existing SR networks with perceptual loss function to generate more realistic images.<br>
+* Trained an image compression model that stores images in a low-dimensional representation and reconstructs
 them using different decoders for nonpaying and premium users.<br>
-Uses convolutional autoencoders to provide greater compression ratios and SR network trained on perceptual loss
+* Uses convolutional autoencoders to provide greater compression ratios and SR network trained on perceptual loss
 for image upscaling.
 
 ### Remote Intern <img src="https://akella17.github.io/images/IMSC.png" alt="Drawing" width="90" height="90" align="right"/>
