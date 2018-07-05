@@ -17,11 +17,12 @@ feature:
 <hr>
 {{ page.excerpt | markdownify }}
 
-### Software Engineer <img src="https://prakhar-agarwal.github.io/images/walmartlabs.png" alt="Drawing" width="120" height="50" align="right"/>
+### Analog Design Internship <img src="https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj0gKXeq4fcAhWLo48KHbA7DEwQjRx6BAgBEAU&url=https%3A%2F%2Fieeer8.org%2Ftexas-instruments-brands-logo-png-transparent%2F&psig=AOvVaw0HL_HIE5qVVu-8HCZ31Q8D&ust=1530858797468042" alt="Drawing" width="120" height="50" align="right"/>
 
-*WalmartLabs, Bengaluru, India* \| August 2016 – Present
-Working in the DIDC team which focuses on building a data fabric platform that caters to the needs of real time events processing and batch data processing by using latest technologies.
-My work includes building generic platform for seamless data integration across different data platforms covering traditional RDBMS and Big Data platforms (HDFS, Map/Reduce, Oozie, Hive etc.,).
+*Texas Instruments, Bengaluru, India* \| May 2017 – July 2017
+<i>Supervisor: Ankur Kumar Singh, Analog Design Engineer, Texas Instruments</i> <br>
+Worked on automatic generation of Design Verification environment. A python script that would take an xlsx file as input to generate the required test conditions.<br>
+Removes human role (bottleneck) in the verification pipeline, saving significant employee time and effort.
 
 
 ### Research Assistant <img src="https://prakhar-agarwal.github.io/images/Nec.png" alt="Drawing" width="120" height="50" align="right"/>
