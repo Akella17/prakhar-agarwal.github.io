@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Prakhar Agarwal"
+title                    : "Akella Ravi Tej"
 title_separator          : "-"
-name                     : "Prakhar Agarwal"
-description              : "Prakhar Agarwal - Personal Webpage"
-url                      : https://prakhar-agarwal.github.io/
+name                     : "Akella Ravi Tej"
+description              : "Akella Ravi Tej - Personal Webpage"
+url                      : https://akella17.github.io/
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : prakhar-agarwal/prakhar-agarwal.github.io
+repository               : Akella17/Akella17.github.io
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
