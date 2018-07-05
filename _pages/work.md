@@ -17,7 +17,7 @@ feature:
 <hr>
 {{ page.excerpt | markdownify }}
 
-### Analog Design Internship <img src="https://prakhar-agarwal.github.io/images/TI.png" alt="Drawing" width="120" height="50" align="right"/>
+### Analog Design Internship <img src="https://akella17.github.io/images/TI.png" alt="Drawing" width="120" height="50" align="right"/>
 
 *Texas Instruments, Bengaluru, India* \| May 2017 – July 2017
 <i>Supervisor: Ankur Kumar Singh, Analog Design Engineer, Texas Instruments</i> <br>
