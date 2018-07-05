@@ -16,6 +16,11 @@ feature:
 
 {{ page.excerpt | markdownify }}
 
+#### Self-Supervised Projects
+<hr>
+
+#### Mentored Projects
+<hr>
 ### Speaker Recognition using Neural Networks
 
 *Machine Vision Laboratory, IIT Roorkee* \| January 2018 – May 2018<br>
