@@ -16,6 +16,13 @@ feature:
 
 {{ page.excerpt | markdownify }}
 
+### Speaker Recognition using Neural Networks
+
+*Machine Vision Laboratory, IIT Roorkee* \| January 2018 – May 2018<br>
+<i>Supervisors: Dr. Ajit K Chaturvedi, Professor & Director, IIT Roorkee <br> Dr. R Balasubramanian, Associate Professor, IIT Roorkee</i><br>
+* Trained a speaker recognition neural network using softmax classifier.<br>
+* Trained a speaker embedding neural network using triplet loss funtion.<br>
+
 ### Intern at FZI Forschungszentrum Informatik, Karlsruhe, Germany  (May 2016 - Present) 
 Mentor: Mr. Matthias Frank, Research scientist at FZI  and  Prof. Dr. Rudi Studer, Senior Professor in Applied Informatics at the Karlsruhe Institute of Technology (KIT) 
 Project : Semantic data integration for project  ​ BigGIS 
