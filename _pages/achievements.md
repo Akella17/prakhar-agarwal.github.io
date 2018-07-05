@@ -19,23 +19,15 @@ feature:
 ### Honors and Awards
 <hr>
 
-* Travel scholarship for Thesis to Heidelberg, Germany.
-* National Finalist, BuildTheShield, a Computer Security hackathon by MICROSOFT (Country Rank-15).
-* IBM Bluemix Hackathon (Finished 2nd in a 24hrs event).
-* Offered INSPIRE Scholarship for Academic excellence by the Department of Science and Technology, Government of India, 2012.
-* 99.99% percentile in National Cyber Olympiad, 2009(Country Rank-57).
-* Credited with Meritorious Student award for being a Scholar in Sir Padampat Singhania Education Centre, Kanpur.
-* A.I.E.E.E. [2012] A.I.R. of 563 (in top 0.05% among 1.13 million applicants).
-* Best Project Award Software Design Adaptive Technology, APOGEE-2014 and Simulation and Mathematical Modelling, APOGEE-2015.
 
+* Codechef SnackDown-2016 Elimination Round (Rank-315) (19th June 2016 19:30 - 20th June 2016 00:30)
+* Ranked in top 1% students of the country in JEE-Advance 2014
+* Ranked in top 0.1% students of the country in JEE-Mains 2014
+* Kishore Vaigyanik Protsahan Yojana (KVPY) Scholar (2014) (SX-Stream)
+  * The "Kishore Vaigyanik Protsahan Yojana" (KVPY) is a program to encourage students who are studying Basic Sciences to take up research career in Science. The aim of the program is to identify and encourage talented and motivated students to pursue career in research. This program aims to assist the students to realise their potential and to ensure that the best scientific talent is groomed for research and development in the country.
+* Indian National Physics Olympiad (2014) 
+  * Came in top 1% local area 
+* Silver Certificate (Rank-154) in Technothlon-2013
+* Abacus Grand Master SIP Academy (2010)
+* 3rd Runner-up in International Abacus and Arithmetic Competition, Chennai(2009)
 
-### Position of Responsibility
-Some of the chances where I got to share ideas and discuss problems.
-<hr>
-* Professional Assistant, Software Design Educational Technology Unit (SDET), BITS Pilani
-* Teaching Assistant Computer Networks offered by BITS Pilani [Course Nos.:  CS F 303 / IS F 303]
-  * Responsible for redesigning the lab experiments and Development of the corresponding Lab Sheets
-  * Conducted hands on session on Working with LINUX
-* Vice President, Technology and Products, ARISE IMPACT (a non-profit NGO)
-* Project Chairperson, Association for Computing Machinery, Students Chapter BITS Pilani (2013-2015)
-* Co-organizer at Google Developers Group, BITS Pilani (2014-2015)

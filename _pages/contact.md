@@ -17,8 +17,7 @@ feature:
 {{ page.excerpt | markdownify }}
 
 #### Email :
- [prakharagarwal2511@gmail.com](mailto:prakharagarwal2511@gmail.com) <br>
- [f2012277@pilani.bits-pilani.ac.in](mailto:f2012277@pilani.bits-pilani.ac.in)
+ [ravitej.akella@gmail.com](mailto:ravitej.akella@gmail.com)
 
 #### Skype Id : 
-  prakharagarwal2511
+  live:ravitej.akella_1
