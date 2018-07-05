@@ -16,4 +16,13 @@ feature:
 <hr>
 {{ page.excerpt | markdownify }}
 
-<img src="https://akella17.github.io/images/Work_In_Progress.png" alt="Drawing" width="290" height="290" align="middle"/>
+
+<style type="text/css">
+.centerImage
+{
+text-align:center;
+display:block;
+}
+</style>
+
+<img src="https://akella17.github.io/images/Work_In_Progress.png" class="centerImage" alt="Drawing" width="290" height="290" align="middle"/>
