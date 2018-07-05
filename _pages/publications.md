@@ -18,5 +18,5 @@ feature:
 
 * A Randomized Kernel-Based Secret Image Sharing Scheme <br>
 <b>Akella Ravi Tej</b>, Rekula Ravi Teja, Dr. Vinod Pankajakshan. <br>
-Submitted for IEEE International Workshop on Information Forensics and Security (WIFS) [2018]
+Submitted to IEEE International Workshop on Information Forensics and Security (WIFS) [2018]
  
