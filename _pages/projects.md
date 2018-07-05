@@ -16,10 +16,10 @@ feature:
 
 {{ page.excerpt | markdownify }}
 
-#### Self-Supervised Projects
+## Self-Supervised Projects
 <hr>
 
-#### Mentored Projects
+## Mentored Projects
 <hr>
 ### Speaker Recognition using Neural Networks
 
