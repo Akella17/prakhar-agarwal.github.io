@@ -17,7 +17,7 @@ feature:
 <hr>
 {{ page.excerpt | markdownify }}
 
-### Analog Design Internship <img src="https://akella17.github.io/images/TI.jpg" alt="Drawing" width="150" height="50" align="right"/>
+### Analog Design Internship <img src="https://akella17.github.io/images/TI.png" alt="Drawing" width="150" height="50" align="right"/>
 
 *Texas Instruments, Bengaluru, India* \| May 2017 – July 2017 <br>
 <i>Supervisor: Ankur Kumar Singh, Analog Design Engineer, Texas Instruments</i> <br>
@@ -36,7 +36,7 @@ them using different decoders for nonpaying and premium users.
 Uses convolutional autoencoders to provide greater compression ratios and SR network trained on perceptual loss
 for image upscaling.
 
-### Research Intern <img src="https://akella17.github.io/images/IITR.png" alt="Drawing" width="120" height="50" align="right"/>
+### Research Intern <img src="https://akella17.github.io/images/IITR.jpg" alt="Drawing" width="120" height="50" align="right"/>
 
 *Machine Vision Lab, IIT Roorkee* \| January 2017 – Oct 2017<br>
 <i>Supervisor: Dr. R Balasubramanian, Associate Professor, IIT Roorkee</i><br>
