@@ -29,7 +29,7 @@ for image upscaling.
 
 ### Remote Intern <img src="https://akella17.github.io/images/IMSC.png" alt="Drawing" width="90" height="90" align="right"/>
 
-<i>Supervisor: Dr. R Ramanujam, Professor, Theoretical Computer Science, IMSc</i>| January 2017 – Oct 2017<br>
+<i>Supervisor: Dr. R Ramanujam, Professor, Theoretical Computer Science, IMSc</i>| November 2017 – April 2018<br>
 Literature survey on zero-knowledge proofs, elliptic curve cryptography and bilinear pairings.
 Use of pi-calculus to verify cryptographic protocols.. <br />
 
