@@ -17,14 +17,6 @@ feature:
 <hr>
 {{ page.excerpt | markdownify }}
 
-### Analog Design Internship <img src="https://akella17.github.io/images/TI.png" alt="Drawing" width="150" height="50" align="right"/>
-
-*Texas Instruments, Bengaluru, India* \| May 2017 – July 2017 <br>
-<i>Supervisor: Ankur Kumar Singh, Analog Design Engineer, Texas Instruments</i> <br>
-Worked on automatic generation of Design Verification environment. A python script that would take an xlsx file as input to generate the required test conditions.<br>
-Removes human role (bottleneck) in the verification pipeline, saving significant employee time and effort.
-
-
 ### Research Intern <img src="https://akella17.github.io/images/IITR.jpg" alt="Drawing" width="90" height="90" align="right"/>
 
 *Signal Processing Laboratory, IIT Roorkee* \| December 2017 – May 2018<br>
@@ -42,6 +34,13 @@ for image upscaling.
 Simulate deduplication in a Cloud-Based System using Convergent Key Management.
 Block level deduplication achieved using SHA-256 (Convergent Key).
 Master Key on local device to prevent “Confirmation of a File Attack”. <br />
+
+### Analog Design Internship <img src="https://akella17.github.io/images/TI.png" alt="Drawing" width="150" height="50" align="right"/>
+
+*Texas Instruments, Bengaluru, India* \| May 2017 – July 2017 <br>
+<i>Supervisor: Ankur Kumar Singh, Analog Design Engineer, Texas Instruments</i> <br>
+Worked on automatic generation of Design Verification environment. A python script that would take an xlsx file as input to generate the required test conditions.<br>
+Removes human role (bottleneck) in the verification pipeline, saving significant employee time and effort.
 
 ### Undergraduate Proficiency <img src="https://akella17.github.io/images/aries.jpg" alt="Drawing" width="65" height="65" align="right"/>
 
