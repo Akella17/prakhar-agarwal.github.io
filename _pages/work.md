@@ -43,7 +43,7 @@ Simulate deduplication in a Cloud-Based System using Convergent Key Management.
 Block level deduplication achieved using SHA-256 (Convergent Key).
 Master Key on local device to prevent “Confirmation of a File Attack”. <br />
 
-### Undergraduate Proficiency <img src="https://akella17.github.io/images/aries.jpg" alt="Drawing" width="120" height="120" align="right"/>
+### Undergraduate Proficiency <img src="https://akella17.github.io/images/aries.jpg" alt="Drawing" width="105" height="105" align="right"/>
 
 *Artificial Intelligence and Electronics Society (ArIES), IIT Roorkee* \| Aug 2014 – Jan 2015 <br>
 Induced touch detection using optics(Infrared radiation, total internal reflection and blog detection). <br>
