@@ -17,7 +17,7 @@ feature:
 <hr>
 {{ page.excerpt | markdownify }}
 
-### Analog Design Internship <img src="https://akella17.github.io/images/TI.png" alt="Drawing" width="150" height="50" align="right"/>
+### Analog Design Internship <img src="https://akella17.github.io/images/TI.jpg" alt="Drawing" width="150" height="50" align="right"/>
 
 *Texas Instruments, Bengaluru, India* \| May 2017 – July 2017 <br>
 <i>Supervisor: Ankur Kumar Singh, Analog Design Engineer, Texas Instruments</i> <br>
@@ -25,7 +25,7 @@ Worked on automatic generation of Design Verification environment. A python scri
 Removes human role (bottleneck) in the verification pipeline, saving significant employee time and effort.
 
 
-### Research Intern <img src="https://akella17.github.io/images/IITR.png" alt="Drawing" width="120" height="50" align="right"/>
+### Research Intern <img src="https://akella17.github.io/images/IITR.jpg" alt="Drawing" width="120" height="50" align="right"/>
 
 Bachelor Thesis <br />
 *Signal Processing Laboratory, IIT Roorkee* \| December 2017 – May 2018<br>
