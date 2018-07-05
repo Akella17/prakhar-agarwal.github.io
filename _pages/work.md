@@ -25,7 +25,7 @@ Worked on automatic generation of Design Verification environment. A python scri
 Removes human role (bottleneck) in the verification pipeline, saving significant employee time and effort.
 
 
-### Research Intern <img src="https://akella17.github.io/images/IITR.jpg" alt="Drawing" width="120" height="50" align="right"/>
+### Research Intern <img src="https://akella17.github.io/images/IITR.jpg" alt="Drawing" width="90" height="50" align="right"/>
 
 Bachelor Thesis <br />
 *Signal Processing Laboratory, IIT Roorkee* \| December 2017 – May 2018<br>
@@ -36,7 +36,7 @@ them using different decoders for nonpaying and premium users.
 Uses convolutional autoencoders to provide greater compression ratios and SR network trained on perceptual loss
 for image upscaling.
 
-### Research Intern <img src="https://akella17.github.io/images/IITR.jpg" alt="Drawing" width="120" height="50" align="right"/>
+### Research Intern <img src="https://akella17.github.io/images/IITR.jpg" alt="Drawing" width="90" height="50" align="right"/>
 
 *Machine Vision Lab, IIT Roorkee* \| January 2017 – Oct 2017<br>
 <i>Supervisor: Dr. R Balasubramanian, Associate Professor, IIT Roorkee</i><br>
