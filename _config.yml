@@ -67,7 +67,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links:
-  - "https://www.linkedin.com/in/prakharagarwal2511"
+  - "https://www.linkedin.com/in/akella17/"
   # An array of links to social media profiles
 
 # Analytics
@@ -79,30 +79,30 @@ analytics:
 
 # Site Author
 author:
-  name             : "Prakhar Agarwal"
-  avatar           : "bio-photo_edit.jpg"
-  bio              : "Programmer, Developer and Aspiring Researcher"
-  location         : "Bangalore, India"
-  email            : prakharagarwal2511@gmail.com
+  name             : "Akella Ravi Tej"
+  avatar           : "bio-photo.jpg"
+  bio              : "ε-greedy always"
+  location         : "Hyderabad, India"
+  email            : ravitej.akella@gmail.com
   uri              :
-  bitbucket        : prakhar_agarwal
+  bitbucket        : 
   codepen          :
   dribbble         : 
   flickr           :
-  facebook         : prakharagarwal25
+  facebook         : ravitej.akella
   foursquare       :
-  github           : prakhar-agarwal
-  google_plus      : #u/0/+PrakharAgarwal2511
+  github           : Akella17
+  google_plus      : #u/0/+RaviTejAkella
   keybase          :
-  instagram        : prakharagarwal2511
+  instagram        : 
   lastfm           :
-  linkedin         : prakharagarwal2511
+  linkedin         : akella17
   pinterest        :
   soundcloud       :
-  stackoverflow    : 2061991/prakhar-agarwal
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : #prakhar5050
+  twitter          : ravitej_17
   vine             :
   weibo            :
   xing             :
