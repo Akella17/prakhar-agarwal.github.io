@@ -25,7 +25,7 @@ Worked on automatic generation of Design Verification environment. A python scri
 Removes human role (bottleneck) in the verification pipeline, saving significant employee time and effort.
 
 
-### Research Intern <img src="https://akella17.github.io/images/IITR.jpg" alt="Drawing" width="90" height="50" align="right"/>
+### Research Intern <img src="https://akella17.github.io/images/IITR.jpg" alt="Drawing" width="90" height="90" align="right"/>
 
 *Signal Processing Laboratory, IIT Roorkee* \| December 2017 – May 2018<br>
 <i>Supervisor: Dr. Vinod Pankajakshan, Assistant Professor, IIT Roorkee</i><br>
@@ -35,7 +35,7 @@ them using different decoders for nonpaying and premium users.
 Uses convolutional autoencoders to provide greater compression ratios and SR network trained on perceptual loss
 for image upscaling.
 
-### Research Intern <img src="https://akella17.github.io/images/IITR.jpg" alt="Drawing" width="90" height="50" align="right"/>
+### Research Intern <img src="https://akella17.github.io/images/IITR.jpg" alt="Drawing" width="90" height="90" align="right"/>
 
 *Machine Vision Lab, IIT Roorkee* \| January 2017 – Oct 2017<br>
 <i>Supervisor: Dr. R Balasubramanian, Associate Professor, IIT Roorkee</i><br>
@@ -43,7 +43,7 @@ Simulate deduplication in a Cloud-Based System using Convergent Key Management.
 Block level deduplication achieved using SHA-256 (Convergent Key).
 Master Key on local device to prevent “Confirmation of a File Attack”. <br />
 
-### Undergraduate Proficiency <img src="https://akella17.github.io/images/aries.jpg" alt="Drawing" width="50" height="50" align="right"/>
+### Undergraduate Proficiency <img src="https://akella17.github.io/images/aries.jpg" alt="Drawing" width="75" height="75" align="right"/>
 
 *Artificial Intelligence and Electronics Society (ArIES), IIT Roorkee* \| Aug 2014 – Jan 2015 <br>
 Induced touch detection using optics(Infrared radiation, total internal reflection and blog detection). <br>
