@@ -19,23 +19,19 @@ feature:
 ### Speaker Recognition using Neural Networks
 
 *Machine Vision Laboratory, IIT Roorkee* \| January 2018 – May 2018<br>
-<i>Supervisors: Dr. Ajit K Chaturvedi, Professor & Director, IIT Roorkee <br> Dr. R Balasubramanian, Associate Professor, IIT Roorkee</i><br>
+<i>Supervisors: Dr. Ajit K Chaturvedi, Professor & Director, IIT Roorkee and Dr. R Balasubramanian, Associate Professor, IIT Roorkee</i><br>
 * Trained a speaker recognition neural network using softmax classifier.<br>
 * Trained a speaker embedding neural network using triplet loss funtion.<br>
 
-### Intern at FZI Forschungszentrum Informatik, Karlsruhe, Germany  (May 2016 - Present) 
-Mentor: Mr. Matthias Frank, Research scientist at FZI  and  Prof. Dr. Rudi Studer, Senior Professor in Applied Informatics at the Karlsruhe Institute of Technology (KIT) 
-Project : Semantic data integration for project  ​ BigGIS 
-+ Developed a contextual mapping between Semantic MediaWiki and Hydra vocabulary for a collaborative annotation 
-platform of Web APIs Documentation to obtain machine processable format for dynamic integration of services. 
-+ Designing a smart generic Client for automated integration of Web APIs and services 
-Project Links: http://www.fzi.de/en/research/projekt­details/biggis/, https://amazonas.fzi.de/docapi/index.php/Main_Page  
+### Motion Vector Encryption on MPEG Video Files
 
-### Technical Volunteer for Mobile applications
-ARISE (Act to Rise for Innovation in Special Education)   (May, 2015 - Aug 2015)  
-Guide: Mr. Abhishek Syal, Sr. Market Intelligence Analyst, EMC Corporate | MIT Sloan MBA 
-+ Designed for Project ‘Location Tracker App for Differently Abled’, call­for­help application  
-+ Developed ‘Audio Learning App for Visually Challenged’, to customise educational resources for low vision and visually 
-challenged students. 
-ARISE Impact team profile:  http://www.ariseimpact.org/team/interns
+*Signal Processing Laboratory, IIT Roorkee* \| January 2017 – April 2017<br>
+<i>Supervisor: Dr. Vinod Pankajakshan, Assistant Professor, IIT Roorkee</i><br>
+* Extract and encrypt the motion vectors of an MPEG video file.<br>
+* Our modified approach consists of shifting the present motion vectors based on the previously encrypted frame,providing greater immunity from random guessing attacks.<br>
 
+### Enhanced MAC (Multiply and Accumulate) unit used in modern DSP Processors
+
+*Embedded Systems Course Project* \| October 2016<br>
+<i>Supervisor: Dr. Brajesh Kumar Kaushik, Associate Professor, IIT Roorkee</i><br>
+* Designed an enhanced MAC unit with pipelined architecture to increase the throughput.<br>
