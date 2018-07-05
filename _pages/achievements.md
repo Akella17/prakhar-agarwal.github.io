@@ -20,7 +20,7 @@ feature:
 <hr>
 
 
-* Codechef SnackDown-2016 Elimination Round (Rank-315) (19th June 2016 19:30 - 20th June 2016 00:30)
+* Codechef SnackDown-2016 Elimination Round (Rank-315)
 * Ranked in top 1% students of the country in JEE-Advance 2014
 * Ranked in top 0.1% students of the country in JEE-Mains 2014
 * Kishore Vaigyanik Protsahan Yojana (KVPY) Scholar (2014) (SX-Stream)
