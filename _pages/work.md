@@ -19,27 +19,30 @@ feature:
 
 ### Analog Design Internship <img src="https://akella17.github.io/images/TI.png" alt="Drawing" width="150" height="50" align="right"/>
 
-*Texas Instruments, Bengaluru, India* \| May 2017 – July 2017
+*Texas Instruments, Bengaluru, India* \| May 2017 – July 2017 <br>
 <i>Supervisor: Ankur Kumar Singh, Analog Design Engineer, Texas Instruments</i> <br>
 Worked on automatic generation of Design Verification environment. A python script that would take an xlsx file as input to generate the required test conditions.<br>
 Removes human role (bottleneck) in the verification pipeline, saving significant employee time and effort.
 
 
-### Research Assistant <img src="https://prakhar-agarwal.github.io/images/Nec.png" alt="Drawing" width="120" height="50" align="right"/>
+### Research Intern <img src="https://akella17.github.io/images/IITR.png" alt="Drawing" width="120" height="50" align="right"/>
 
 Bachelor Thesis <br />
-*NEC Laboratories, Heidelberg, Germany* \| January 2016 – July 2016<br>
-Guide: Mischa Schmidt, Senior Researcher at NEC Europe<br>
-Worked on Deep Feature synthesis towards automating Data Science endeavors for Energy Saving on buildings using Machine Learning.
-The results of my work ​were used in EU project "Data-Driven investigation of large scale Cooling System at Frankfurt commerzbank arena, Germany."
+*Signal Processing Laboratory, IIT Roorkee* \| December 2017 – May 2018<br>
+<i>Supervisor: Dr. Vinod Pankajakshan, Assistant Professor, IIT Roorkee</i><br>
+Trained existing SR networks with perceptual loss function to generate more realistic images.
+Trained an image compression model that stores images in a low-dimensional representation and reconstructs
+them using different decoders for nonpaying and premium users.
+Uses convolutional autoencoders to provide greater compression ratios and SR network trained on perceptual loss
+for image upscaling.
 
-### Research Intern <img src="https://prakhar-agarwal.github.io/images/bosch.png" alt="Drawing" width="100" height="50" align="right"/>
+### Research Intern <img src="https://akella17.github.io/images/IITR.png" alt="Drawing" width="120" height="50" align="right"/>
 
-*Robert Bosch Cooporate Research, Bengaluru, India* \| June 2015 – Aug 2015<br>
-Guide: Dr. Kumar Padmanabh, Lead Scientist/Researcher in "Internet of Things"<br>
-Worked on Electricity Demand forecasting for user profiling using various clustering algorithms and distributed graph edit distance calculation algorithms.
-Designed a fault tolerant, real-time system with a capability to be used for load profiling and peak prediction from Day 0 using Machine Learning. <br />
-***Patent Pending***
+*Machine Vision Lab, IIT Roorkee* \| January 2017 – Oct 2017<br>
+<i>Supervisor: Dr. R Balasubramanian, Associate Professor, IIT Roorkee</i><br>
+Simulate deduplication in a Cloud-Based System using Convergent Key Management.
+Block level deduplication achieved using SHA-256 (Convergent Key).
+Master Key on local device to prevent “Confirmation of a File Attack”. <br />
 
 ### Undergraduate Research Assistant <img src="https://prakhar-agarwal.github.io/images/ceeri.gif" alt="Drawing" width="100" height="100" align="right"/>
 
