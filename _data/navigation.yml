@@ -16,10 +16,10 @@ main:
     url: blog/
     
   - title: "Achievements"
-    url: achievements/
+    url: achievements
     
   - title: "Resume"
-    url: resume.pdf12/
+    url: resume.pdf
     
   - title: "Contact"
     url: contact/
