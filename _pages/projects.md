@@ -41,7 +41,7 @@ feature:
 * Uses CTC cost for speech recognition.
 
 ### Debiasing Word Embeddings
-* Word embeddings can often represent gender, ethnicity, age and other biases of the text used to train the model. Debiasing is performed on word embeddings to remove observed biases. Based on work byBolukbasi et al., 2016.
+* Word embeddings can often represent gender, ethnicity, age and other biases of the text used to train the model. Debiasing is performed on word embeddings to remove observed biases. Based on work by Bolukbasi et al., 2016.
 
 ## Mentored Projects
 <hr>
