@@ -4,7 +4,7 @@ permalink: /projects/
 title: ""
 date: 2014-06-02T15:05:16-04:00
 modified: 2016-01-04T16:38:17-05:00
-excerpt: "A selection of things I've designed, illustrated, and developed."
+excerpt: 
 ads: false
 fullwidth: true
 tiles: true
@@ -16,19 +16,52 @@ feature:
 
 {{ page.excerpt | markdownify }}
 
-### Intern at FZI Forschungszentrum Informatik, Karlsruhe, Germany  (May 2016 - Present) 
-Mentor: Mr. Matthias Frank, Research scientist at FZI  and  Prof. Dr. Rudi Studer, Senior Professor in Applied Informatics at the Karlsruhe Institute of Technology (KIT) 
-Project : Semantic data integration for project  ​ BigGIS 
-+ Developed a contextual mapping between Semantic MediaWiki and Hydra vocabulary for a collaborative annotation 
-platform of Web APIs Documentation to obtain machine processable format for dynamic integration of services. 
-+ Designing a smart generic Client for automated integration of Web APIs and services 
-Project Links: http://www.fzi.de/en/research/projekt­details/biggis/, https://amazonas.fzi.de/docapi/index.php/Main_Page  
+## Self-Supervised Projects
+<hr>
 
-### Technical Volunteer for Mobile applications
-ARISE (Act to Rise for Innovation in Special Education)   (May, 2015 - Aug 2015)  
-Guide: Mr. Abhishek Syal, Sr. Market Intelligence Analyst, EMC Corporate | MIT Sloan MBA 
-+ Designed for Project ‘Location Tracker App for Differently Abled’, call­for­help application  
-+ Developed ‘Audio Learning App for Visually Challenged’, to customise educational resources for low vision and visually 
-challenged students. 
-ARISE Impact team profile:  http://www.ariseimpact.org/team/interns
+### Voice Style Transfer
+* Extending the work of Gatys et al.on neural artistic style transfer to audio signals.<br>
+* Uses siamese network with triplet loss function.
 
+### Disentangled Learning in β-Variatonal Auto-Encoders
+* Baseline: Implementing the β-VAE paper of DeepMind to extract disentangled factors from dsprites dataset.<br>
+* Balancing the trade-off between disentanglement and reconstruction fidelity by adjusting the hyperparameter β. <br>
+* Disentanglement helps with zero-shot inference and faster knowledge transfer to new tasks.
+
+### Face Recognition with One-Shot Learning
+* Used one-shot learning to build a face recognition system.<br>
+* Transfers selected speaker’s features like pitch and timbre across speech signals.
+
+### Art Generation with Neural Style Transfer
+* Implementation of Gatys et al. paper on neural style transfer.<br>
+* Blends low level features of style image with high level features of context image.
+
+### Trigger Word Detection
+* Detects trigger words from continuous audio stream using LSTM.<br>
+* Uses CTC cost for speech recognition.
+
+### Debiasing Word Embeddings
+* Word embeddings can often represent gender, ethnicity, age and other biases of the text used to train the model. Debiasing is performed on word embeddings to remove observed biases. Based on work by Bolukbasi et al., 2016.
+
+## Mentored Projects
+<hr>
+
+### Speaker Recognition using Neural Networks
+
+*Machine Vision Laboratory, IIT Roorkee* \| January 2018 – May 2018<br>
+<i>Supervisors: Dr. Ajit K Chaturvedi, Professor & Director, IIT Roorkee and Dr. R Balasubramanian, Associate Professor, IIT Roorkee</i><br>
+* Trained a speaker recognition neural network using softmax classifier.<br>
+* Trained a speaker embedding neural network using triplet loss funtion.<br>
+
+### Motion Vector Encryption on MPEG Video Files
+
+*Signal Processing Laboratory, IIT Roorkee* \| January 2017 – April 2017<br>
+<i>Supervisor: Dr. Vinod Pankajakshan, Assistant Professor, IIT Roorkee</i><br>
+* Extract and encrypt the motion vectors of an MPEG video file.<br>
+* Our modified approach consists of shifting the present motion vectors based on the previously encrypted frame, providing greater immunity from random guessing attacks.<br>
+
+### Enhanced MAC (Multiply and Accumulate) unit used in modern DSP Processors
+
+*Embedded Systems Course Project* \| October 2016<br>
+<i>Supervisor: Dr. Brajesh Kumar Kaushik, Associate Professor, IIT Roorkee</i><br>
+* Designed an enhanced MAC unit with pipelined architecture to increase the throughput.<br>
