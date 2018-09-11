@@ -21,7 +21,7 @@ feature:
 
 *California Institute of Technology, Pasadena* \| Aug 2018 – Present<br>
 <i>Supervisors: Prof. Anima Anandkumar, Bren Professor, California Institute of Technology<br>
-&emsp;&emsp;&emsp;&emsp;&emsp; Kamyar Azizzadenesheli, Ph.D. Candidate, University of California, Irvine</i><br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Kamyar Azizzadenesheli, Ph.D. Candidate, University of California, Irvine</i><br>
 * Unifying count-based exploration and intrinsic motivation over state-action space, an extension of count-based
 exploration in state space. Based on the work in Bellemare et al. 2016 and Ostrovski et al. 2017 at DeepMind.
 * Uses PixelCNN++ network and U-net architecture to design the density model.
