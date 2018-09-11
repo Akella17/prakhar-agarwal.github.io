@@ -22,5 +22,9 @@ Work in progress
 
 * <b>A Randomized Kernel-Based Secret Image Sharing Scheme</b> <br>
 <i><b>Akella Ravi Tej</b>, Rekula Ravi Teja, Dr. Vinod Pankajakshan.</i> <br>
-Accepted for presentation at WIFS-2018, the flagship workshop of IEEE Information Forensics and Security technical committee.
+**The paper proposes a $(k, n)$-threshold secret image
+sharing scheme that offers flexibility in terms of meeting
+contrasting demands such as information security and storage
+efficiency.
+**Accepted for presentation at WIFS-2018, the flagship workshop of IEEE Information Forensics and Security technical committee.
  
