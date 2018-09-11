@@ -19,6 +19,14 @@ feature:
 ## Self-Supervised Projects
 <hr>
 
+### Handwriting Synthesis
+* Demonstrates how LSTM networks can be used to generate complex sequences with long range structure. Based
+on work in Alex Graves et al., 2013 . This work was done as a part of lyrebird.ai challenge.
+
+### Language Identification
+* Train a character-level LSTM model for language identification over DSLCC-v2.0 dataset.
+* Inspired from work done in Stanford Language Identification Engine (SLIDE).
+
 ### Voice Style Transfer
 * Extending the work of Gatys et al.on neural artistic style transfer to audio signals.<br>
 * Uses siamese network with triplet loss function.
