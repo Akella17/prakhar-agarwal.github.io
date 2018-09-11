@@ -21,7 +21,7 @@ feature:
 
 ### Handwriting Synthesis
 * Demonstrates how LSTM networks can be used to generate complex sequences with long range structure. Based
-on work in Alex Graves et al., 2013 . This work was done as a part of lyrebird.ai challenge.
+on work in Alex Graves et al., 2013. This work was done as a part of lyrebird.ai challenge.
 
 ### Language Identification
 * Train a character-level LSTM model for language identification over DSLCC-v2.0 dataset.
