@@ -16,9 +16,10 @@ feature:
 <hr>
 {{ page.excerpt | markdownify }}
 
-* <b>A Survey on the Evolution of Deep Learning Architectures in Single Image Super Resolution</b> <br>
+* <b>Super Resolution as a Supervised Learning Problem</b> <br>
 <i><b>Akella Ravi Tej</b>, Rekula Ravi Teja, Dr. Vinod Pankajakshan.</i> <br>
-Work in progress
+Work in progress<br>
+A survey paper on the evolution of deep learning architectures to tackle Single Image Super Resolution (SISR) problem
 
 * <b>A Randomized Kernel-Based Secret Image Sharing Scheme</b> <br>
 <i><b>Akella Ravi Tej</b>, Rekula Ravi Teja, Dr. Vinod Pankajakshan.</i> <br>
