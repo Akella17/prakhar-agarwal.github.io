@@ -19,13 +19,15 @@ feature:
 
 ### Remote Intern <img src="https://akella17.github.io/images/caltech.png" alt="Drawing" width="90" height="90" align="right"/>
 
-*California Institute of Technology, Pasadena* \| Aug 2018 – Present<br>
+*California Institute of Technology, Pasadena* \| Oct 2018 – Present<br>
 <i>Supervisors: Prof. Anima Anandkumar, Bren Professor, California Institute of Technology<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Kamyar Azizzadenesheli, Ph.D. Candidate, University of California, Irvine</i><br>
-* Unifying count-based exploration and intrinsic motivation over state-action space, an extension of count-based
+* Joint project between Caltech and DeepMind on unifying Bayesian Deep Q-Network techniques\href{https://arxiv.org/pdf/1802.04412.pdf}{$\ExternalLink$} with Gaussian Process Temporal Difference (GPTD) learning\href{http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.81.6420&rep=rep1&type=pdf}{$\ExternalLink$} to achieve efficient exploration.
+* Study count-based exploration approaches that are inspired from intrinsic motivation literature. Based on the work in \textit{Bellemare et al. 2016}\href{https://arxiv.org/pdf/1606.01868.pdf}{$\ExternalLink$} and \textit{Ostrovski et al. 2017}\href{https://arxiv.org/pdf/1703.01310.pdf}{$\ExternalLink$} at DeepMind.
+> Unifying count-based exploration and intrinsic motivation over state-action space, an extension of count-based
 exploration in state space. Based on the work in Bellemare et al. 2016 and Ostrovski et al. 2017 at DeepMind.
-* Uses PixelCNN++ network and U-net architecture to design the density model.
-* Decoupling the optimistic Q(s, a) function into two separate Q networks to improve the Q-learning.
+> Uses PixelCNN++ network and U-net architecture to design the density model.
+> Decoupling the optimistic Q(s, a) function into two separate Q networks to improve the Q-learning.
 
 ### Research Intern <img src="https://akella17.github.io/images/IITR.jpg" alt="Drawing" width="90" height="90" align="right"/>
 
