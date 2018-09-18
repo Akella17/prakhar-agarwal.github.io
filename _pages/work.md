@@ -23,7 +23,7 @@ feature:
 <i>Supervisors: Prof. Anima Anandkumar, Bren Professor, California Institute of Technology<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Kamyar Azizzadenesheli, Ph.D. Candidate, University of California, Irvine</i><br>
 * Joint project between Caltech and DeepMind on unifying <a href="https://arxiv.org/pdf/1802.04412.pdf">Bayesian Deep Q-Network techniques</a> with <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.81.6420&rep=rep1&type=pdf">Gaussian Process Temporal Difference (GPTD) learning</a> to achieve efficient exploration.
-* Study count-based exploration approaches that are inspired from intrinsic motivation literature. Based on the work in <a href="https://arxiv.org/pdf/1606.01868.pdf">Bellemare et al. 2016</a> and <a href="https://arxiv.org/pdf/1703.01310.pdf">Ostrovski et al. 2017</a> at DeepMind.
+* Study count-based exploration approaches that are inspired from intrinsic motivation literature. Based on the works <a href="https://arxiv.org/pdf/1606.01868.pdf">Bellemare et al. 2016</a> and <a href="https://arxiv.org/pdf/1703.01310.pdf">Ostrovski et al. 2017</a> at DeepMind.
 <!---* Unifying count-based exploration and intrinsic motivation over state-action space, an extension of count-based
 exploration in state space. Based on the work in Bellemare et al. 2016 and Ostrovski et al. 2017 at DeepMind.
 * Uses PixelCNN++ network and U-net architecture to design the density model.
