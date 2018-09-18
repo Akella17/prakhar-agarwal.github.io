@@ -19,7 +19,7 @@ feature:
 
 ### Remote Intern <img src="https://akella17.github.io/images/caltech.png" alt="Drawing" width="90" height="90" align="right"/>
 
-*California Institute of Technology, Pasadena* \| Oct 2018 – Present<br>
+*California Institute of Technology, Pasadena* \| Aug 2018 – Present<br>
 <i>Supervisors: Prof. Anima Anandkumar, Bren Professor, California Institute of Technology<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Kamyar Azizzadenesheli, Ph.D. Candidate, University of California, Irvine</i><br>
 * Joint project between Caltech and DeepMind on unifying <a href="https://arxiv.org/pdf/1802.04412.pdf">Bayesian Deep Q-Network techniques</a> with <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.81.6420&rep=rep1&type=pdf">Gaussian Process Temporal Difference (GPTD) learning</a> to achieve efficient exploration.
