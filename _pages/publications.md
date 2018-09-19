@@ -21,8 +21,8 @@ feature:
   * Work in progress<br>
   * A survey paper on the evolution of deep learning architectures to tackle Single Image Super Resolution (SISR) problem
 
-* <b><a href="https://akella17.github.io/kernel_papers/Kernel_Paper.pdf"><u>A Randomized Kernel-Based Secret Image Sharing Scheme</u></a></b> <br>
+* <b>A Randomized Kernel-Based Secret Image Sharing Scheme</b> <br>
 <i><b>Akella Ravi Tej</b>, Rekula Ravi Teja, Dr. Vinod Pankajakshan.</i> <br>
-  * The <u>paper</u> proposes a (k, n)-threshold secret image sharing scheme that offers flexibility in terms of meeting contrasting demands such as information security and storage efficiency.<br>
+  * The <a href="https://akella17.github.io/kernel_papers/Kernel_Paper.pdf"><u>paper</u></a> proposes a (k, n)-threshold secret image sharing scheme that offers flexibility in terms of meeting contrasting demands such as information security and storage efficiency.<br>
   * Accepted for presentation at <a href="http://wifs2018.comp.polyu.edu.hk/">WIFS-2018
 </a>, the flagship workshop of IEEE Information Forensics and Security technical committee.
