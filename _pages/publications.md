@@ -23,6 +23,6 @@ feature:
 
 * <b><a href="https://akella17.github.io/kernel_papers/Kernel_Paper.pdf">A Randomized Kernel-Based Secret Image Sharing Scheme</a></b> <br>
 <i><b>Akella Ravi Tej</b>, Rekula Ravi Teja, Dr. Vinod Pankajakshan.</i> <br>
-  * The paper proposes a (k, n)-threshold secret image sharing scheme that offers flexibility in terms of meeting contrasting demands such as information security and storage efficiency.<br>
+  * The <u>paper</u> proposes a (k, n)-threshold secret image sharing scheme that offers flexibility in terms of meeting contrasting demands such as information security and storage efficiency.<br>
   * Accepted for presentation at <a href="http://wifs2018.comp.polyu.edu.hk/">WIFS-2018
 </a>, the flagship workshop of IEEE Information Forensics and Security technical committee.
