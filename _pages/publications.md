@@ -18,11 +18,14 @@ feature:
 
 * <b>Super Resolution as a Supervised Learning Problem</b> <br>
 <i><b>Akella Ravi Tej</b>, Rekula Ravi Teja, Dr. Vinod Pankajakshan.</i> <br>
-  * Work in progress<br>
-  * A survey paper on the evolution of deep learning architectures to tackle Single Image Super Resolution (SISR) problem
+  * Working on a manuscript<br>
+  * Surveys recent work in the area of single image super resolution (SISR), covering advances in neural network
+architectures, learning algorithms, objective functions, and how they all overcome the ill-posed nature of SISR.<br>
+  * Special emphasis on perceptual loss functions as a better alternative to point estimate objective functions, which
+suffer from regression-to-the-mean problem.
 
 * <b>A Randomized Kernel-Based Secret Image Sharing Scheme</b> <br>
 <i><b>Akella Ravi Tej</b>, Rekula Ravi Teja, Dr. Vinod Pankajakshan.</i> <br>
-  * The <a href="https://arxiv.org/abs/1810.00181"><u>paper</u></a> proposes a (k, n)-threshold secret image sharing scheme that offers flexibility in terms of meeting contrasting demands such as information security and storage efficiency.<br>
+  * The <a href="https://arxiv.org/abs/1810.00181"><u>paper</u></a> proposes a kernel-based operation that enhances the share secrecy of Thien-Lin’s scheme while not compromising on decentralization (no SPOF) and optimal share sizes.<br>
   * Accepted for presentation at <a href="http://wifs2018.comp.polyu.edu.hk/"><u>WIFS-2018
 </u></a>, the flagship workshop of IEEE Information Forensics and Security technical committee.
