@@ -59,7 +59,7 @@ and automatic speech recognition tasks.
 
 ### Motion Vector Encryption on MPEG Video Files
 
-*Signal Processing Laboratory, IIT Roorkee* \| January 2017 – April 2017<br>
+*Signal Processing Laboratory, IIT Roorkee* \| Jul 2016 – Dec 2016<br>
 <i>Supervisor: Dr. Vinod Pankajakshan, Assistant Professor, IIT Roorkee</i><br>
 * Extract and encrypt the motion vectors of an MPEG video file.<br>
 * Our modified approach consists of shifting the present motion vectors based on the previously encrypted frame, providing greater immunity from random guessing attacks.<br>
