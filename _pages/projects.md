@@ -20,36 +20,29 @@ feature:
 <hr>
 
 ### Handwriting Synthesis
-* Demonstrates how LSTM networks can be used to generate complex sequences with long range structure. Based
-on work in Alex Graves et al., 2013. This work was done as a part of lyrebird.ai challenge.
+* Mixture distribution parameterized using an LSTM network (Mixture Density Network) to generate realistic
+cursive handwriting, demonstrating the ability of recurrent neural networks to capture long-range structure.
 
 ### Language Identification
-* Train a character-level LSTM model for language identification over DSLCC-v2.0 dataset.
-* Inspired from work done in Stanford Language Identification Engine (SLIDE).
-
-### Voice Style Transfer
-* Extending the work of Gatys et al.on neural artistic style transfer to audio signals.<br>
-* Uses siamese network with triplet loss function.
+* Character-level LSTM model for language identification based on Stanford Language Identification Engine(SLIDE).
 
 ### Disentangled Learning in β-Variatonal Auto-Encoders
-* Baseline: Implementing the β-VAE paper of DeepMind to extract disentangled factors from dsprites dataset.<br>
-* Balancing the trade-off between disentanglement and reconstruction fidelity by adjusting the hyperparameter β. <br>
-* Disentanglement helps with zero-shot inference and faster knowledge transfer to new tasks.
+* { Balanced the trade-off between learning disentangled representations and reconstruction fidelity by adjusting the
+hyperparameter β to extract disentangled factors from dsprites dataset. <br>
+* Achieved more robust disentangling at a higher reconstruction fidelity using the modified objective function that
+performs a controlled increase of encoding capacity.
 
 ### Face Recognition with One-Shot Learning
-* Used one-shot learning to build a face recognition system.<br>
-* Transfers selected speaker’s features like pitch and timbre across speech signals.
+*  Used a siamese network with triplet loss function to recognize faces from a single example.
 
 ### Art Generation with Neural Style Transfer
-* Implementation of Gatys et al. paper on neural style transfer.<br>
-* Blends low level features of style image with high level features of context image.
+* Generated artwork of high perceptual quality by blending low-level features and high-level features of two images.
 
 ### Trigger Word Detection
-* Detects trigger words from continuous audio stream using LSTM.<br>
-* Uses CTC cost for speech recognition.
+* Used a stacked LSTM network to detect trigger words from a continuous audio stream.
 
 ### Debiasing Word Embeddings
-* Word embeddings can often represent gender, ethnicity, age and other biases of the text used to train the model. Debiasing is performed on word embeddings to remove observed biases. Based on work by Bolukbasi et al., 2016.
+* Eliminated common biases in word embeddings such as gender, age, etc., emerging from unbalanced training sets.
 
 ## Mentored Projects
 <hr>
@@ -58,8 +51,11 @@ on work in Alex Graves et al., 2013. This work was done as a part of lyrebird.ai
 
 *Machine Vision Laboratory, IIT Roorkee* \| January 2018 – May 2018<br>
 <i>Supervisors: Dr. Ajit K Chaturvedi, Professor & Director, IIT Roorkee and Dr. R Balasubramanian, Associate Professor, IIT Roorkee</i><br>
-* Trained a speaker recognition neural network using softmax classifier.<br>
-* Trained a speaker embedding neural network using triplet loss funtion.<br>
+* Reviewed common feature extractors used in pre-processing raw audio signals for speaker recognition task.<br>
+* Experiments were performed with stacked LSTM architecture using the Voice Conversion (VCC) 2016 dataset.<br>
+* Compared the performance of convolutional auto-regressive networks (dilated causal convolutions with a finite
+receptive field) with stacked LSTM networks (theoretically infinite receptive field) for high fidelity speech synthesis
+and automatic speech recognition tasks.
 
 ### Motion Vector Encryption on MPEG Video Files
 
