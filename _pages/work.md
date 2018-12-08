@@ -21,25 +21,22 @@ feature:
 
 *California Institute of Technology, Pasadena* \| Aug 2018 – Present<br>
 <i>Supervisors: Prof. Anima Anandkumar, Bren Professor, California Institute of Technology<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Kamyar Azizzadenesheli, Ph.D. Candidate, University of California, Irvine</i><br>
-* Joint project by researchers at Caltech and DeepMind on unifying <a href="https://arxiv.org/pdf/1802.04412.pdf"><u>Bayesian Deep Q-Network techniques</u></a> with <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.81.6420&rep=rep1&type=pdf"><u>Gaussian Process Temporal Difference (GPTD) learning</u></a> to achieve efficient exploration.
-* Study count-based exploration approaches that are inspired from intrinsic motivation literature. Based on the works <a href="https://arxiv.org/pdf/1606.01868.pdf"><u>Bellemare et al. 2016</u></a> and <a href="https://arxiv.org/pdf/1703.01310.pdf"><u>Ostrovski et al. 2017</u></a> at DeepMind.
+* Attempts to combine the benefits of <a href="http://jmlr.org/papers/volume17/10-245/10-245.pdf"><u>Bayesian approaches</u></a>, such as targeted exploration and sample efficiency in gradient estimation, with the guaranteed monotonic policy improvements offered by <a href="https://arxiv.org/abs/1502.05477"><u>TRPO method</u></a>.<br>
+* Joint project by researcher at Caltech and Google DeepMind to extend the work in <a href="https://arxiv.org/pdf/1802.04412.pdf"><u>Azizzadenesheli et al., (2018)</u></a> to continuous state-action space.
 
 ### Research Intern <img src="https://akella17.github.io/images/IITR.jpg" alt="Drawing" width="90" height="90" align="right"/>
 
-*Signal Processing Laboratory, IIT Roorkee* \| December 2017 – May 2018<br>
+*Signal Processing Laboratory, IIT Roorkee* \| Jul 2017 – May 2018<br>
 <i>Supervisor: Dr. Vinod Pankajakshan, Assistant Professor, IIT Roorkee</i><br>
-* Trained existing SR networks with perceptual loss function to generate more realistic images.<br>
-* Trained an image compression model that stores images in a low-dimensional representation and reconstructs
-them using different decoders for nonpaying and premium users.<br>
-* Uses convolutional autoencoders to provide greater compression ratios and SR network trained on perceptual loss
-for image upscaling.
+* Surveys recent work in the area of single image super resolution (SISR), covering advances in neural network
+architectures, learning algorithms, objective functions, and how they all overcome the ill-posed nature of SISR.<br>
+* Special emphasis on perceptual loss functions as a better alternative to point estimate objective functions, which
+suffer from regression-to-the-mean problem.
 
 ### Remote Intern <img src="https://akella17.github.io/images/IMSC.png" alt="Drawing" width="90" height="90" align="right"/>
 
-<i>Supervisor: Dr. R Ramanujam, Professor, Theoretical Computer Science, IMSc</i> | November 2017 – April 2018<br>
-* Literature survey on zero-knowledge proofs, elliptic curve cryptography and bilinear pairings.<br>
-* Use of pi-calculus to verify cryptographic protocols.. <br />
+<i>Supervisor: Dr. R Ramanujam, Professor, Theoretical Computer Science, IMSc</i> | Jul 2017 – Jan 2018<br>
+* Examined the mathematical principles behind various advanced cryptographic protocols in the zk-SNARK pipeline.
 
 ### Research Intern <img src="https://akella17.github.io/images/IITR.jpg" alt="Drawing" width="90" height="90" align="right"/>
 
