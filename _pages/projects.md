@@ -27,7 +27,7 @@ cursive handwriting, demonstrating the ability of recurrent neural networks to c
 * Character-level LSTM model for language identification based on Stanford Language Identification Engine(SLIDE).
 
 ### Disentangled Learning in β-Variatonal Auto-Encoders
-* { Balanced the trade-off between learning disentangled representations and reconstruction fidelity by adjusting the
+* Balanced the trade-off between learning disentangled representations and reconstruction fidelity by adjusting the
 hyperparameter β to extract disentangled factors from dsprites dataset. <br>
 * Achieved more robust disentangling at a higher reconstruction fidelity using the modified objective function that
 performs a controlled increase of encoding capacity.
