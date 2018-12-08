@@ -19,12 +19,12 @@ feature:
 ### Honors and Awards
 <hr>
 
-
-* Codechef SnackDown-2016 Elimination Round (Rank-315)
+* Recipient of Nehru Memorial Scholarship for academic excellence in undergraduate
+* Ranked of 315/13388 teams in Codechef SnackDown-2016: Global Competitive Programming Tournament
+* Kishore Vaigyanik Protsahan Yojana (KVPY) fellowship (SX Stream-2014) in recognition of aptitude for research
+  * The "Kishore Vaigyanik Protsahan Yojana" (KVPY) is a program to encourage students who are studying Basic Sciences to take up research career in Science. The aim of the program is to identify and encourage talented and motivated students to pursue career in research. This program aims to assist the students to realise their potential and to ensure that the best scientific talent is groomed for research and development in the country.
 * Ranked in top 1% students of the country in JEE-Advance 2014
 * Secured 99.99%tile in IIT-JEE Mains 2014
-* Kishore Vaigyanik Protsahan Yojana (KVPY) Scholar (2014) (SX-Stream)
-  * The "Kishore Vaigyanik Protsahan Yojana" (KVPY) is a program to encourage students who are studying Basic Sciences to take up research career in Science. The aim of the program is to identify and encourage talented and motivated students to pursue career in research. This program aims to assist the students to realise their potential and to ensure that the best scientific talent is groomed for research and development in the country.
 * Indian National Physics Olympiad (2014) 
   * Came in top 1% local area 
 * Silver Certificate (Rank-154) in Technothlon-2013
