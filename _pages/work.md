@@ -17,7 +17,7 @@ feature:
 <hr>
 {{ page.excerpt | markdownify }}
 
-### Remote Intern <img src="https://akella17.github.io/images/caltech.png" alt="Drawing" width="90" height="90" align="right"/>
+### Remote Collaboration <img src="https://akella17.github.io/images/caltech.png" alt="Drawing" width="90" height="90" align="right"/>
 
 *California Institute of Technology, Pasadena* \| Aug 2018 – Present<br>
 <i>Supervisors: Prof. Anima Anandkumar, Bren Professor, California Institute of Technology<br>
