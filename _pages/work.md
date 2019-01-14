@@ -22,7 +22,7 @@ feature:
 *California Institute of Technology, Pasadena* \| Aug 2018 – Present<br>
 <i>Supervisors: Prof. Anima Anandkumar, Bren Professor, California Institute of Technology<br>
 * Attempts to combine the benefits of <a href="http://jmlr.org/papers/volume17/10-245/10-245.pdf"><u>Bayesian approaches</u></a>, such as targeted exploration and sample efficiency in gradient estimation, with the guaranteed monotonic policy improvements offered by <a href="https://arxiv.org/abs/1502.05477"><u>TRPO method</u></a>.<br>
-* Joint project by researcher at Caltech and Google DeepMind to extend the work in <a href="https://arxiv.org/pdf/1802.04412.pdf"><u>Azizzadenesheli et al., (2018)</u></a> to continuous state-action space.
+* Extends the work in <a href="https://arxiv.org/pdf/1802.04412.pdf"><u>Azizzadenesheli et al., (2018)</u></a> to continuous state-action space.
 
 ### Research Intern <img src="https://akella17.github.io/images/IITR.jpg" alt="Drawing" width="90" height="90" align="right"/>
 
