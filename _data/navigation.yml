@@ -19,7 +19,7 @@ main:
     url: achievements
     
   - title: "Resume"
-    url: pdfs/resume.pdf
+    url: pdfs/latest_resume.pdf
     
   - title: "Contact"
     url: contact/
