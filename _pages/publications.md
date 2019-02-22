@@ -17,7 +17,7 @@ feature:
 {{ page.excerpt | markdownify }}
 
 * <b>Super Resolution as a Supervised Learning Problem</b> <br>
-<i><b>Akella Ravi Tej</b>, Rekula Ravi Teja, Dr. Vinod Pankajakshan.</i> <br>
+<i><b>Akella Ravi Tej</b>, Dr. Vinod Pankajakshan.</i> <br>
   * Working on a manuscript<br>
   * Surveys recent work in the area of single image super resolution (SISR), covering advances in neural network
 architectures, learning algorithms, objective functions, and how they all overcome the ill-posed nature of SISR.<br>
