@@ -27,5 +27,4 @@ suffer from regression-to-the-mean problem.
 * <b>A Randomized Kernel-Based Secret Image Sharing Scheme</b> <br>
 <i><b>Akella Ravi Tej</b>, Rekula Ravi Teja, Dr. Vinod Pankajakshan.</i> <br>
   * The <a href="https://arxiv.org/abs/1810.00181"><u>paper</u></a> proposes a kernel-based operation that enhances the share secrecy of Thien-Lin’s scheme while not compromising on decentralization (no SPOF) and optimal share sizes.<br>
-  * Accepted for presentation at <a href="http://wifs2018.comp.polyu.edu.hk/"><u>WIFS-2018
-</u></a>, the flagship workshop of IEEE Information Forensics and Security technical committee.
+  * Presented at the <a href="http://wifs2018.comp.polyu.edu.hk/"><u>IEEE International Workshop on Information Forensics and Security</u></a> (DOI: <a href="https://ieeexplore.ieee.org/document/8630781"><u>10.1109/WIFS.2018.8630781</u></a>).
