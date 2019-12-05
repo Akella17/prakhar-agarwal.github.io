@@ -16,13 +16,11 @@ feature:
 <hr>
 {{ page.excerpt | markdownify }}
 
-* <b>Super Resolution as a Supervised Learning Problem</b> <br>
-<i><b>Akella Ravi Tej</b>, Dr. Vinod Pankajakshan.</i> <br>
-  * Working on a manuscript<br>
-  * Surveys recent work in the area of single image super resolution (SISR), covering advances in neural network
-architectures, learning algorithms, objective functions, and how they all overcome the ill-posed nature of SISR.<br>
-  * Special emphasis on perceptual loss functions as a better alternative to point estimate objective functions, which
-suffer from regression-to-the-mean problem.
+* <b>More to Perceptual Loss in Super Resolution</b> <br>
+<i><b>Akella Ravi Tej</b>, Shirshendu Halder, Arunav Pratap Shandeelya, Dr. Vinod Pankajakshan.</i> <br>
+  * We show that besides visually-pleasing features, perceptual loss also implants high-frequency artifacts in super-resolution images.<br>
+  * Using the latent features from the discriminator, we adaptively filter the unwanted information introduced by the perceptual loss.<br>
+  * Submitted to IEEE Winter Conference on Applications of Computer Vision (WACV 2020).
 
 * <b>A Randomized Kernel-Based Secret Image Sharing Scheme</b> <br>
 <i><b>Akella Ravi Tej</b>, Rekula Ravi Teja, Dr. Vinod Pankajakshan.</i> <br>
